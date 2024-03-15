@@ -1,3 +1,4 @@
 git add <nom_du_fichier>
 git commit "commentaire du commit"
 git push 
+git pull <remote>
